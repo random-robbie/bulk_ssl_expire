@@ -8,4 +8,4 @@ Simply have a text file of domains and then type
 ```
 
 
-[![Capture.png](https://s7.postimg.org/3vf84idwb/Capture.png)](https://s7.postimg.org/3vf84idwb/Capture.png)
+[![asciicast](https://asciinema.org/a/HIYCCA1uDp1ONrOyIgWvpf3jN.png)](https://asciinema.org/a/HIYCCA1uDp1ONrOyIgWvpf3jN)
